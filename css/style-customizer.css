@@ -35,10 +35,10 @@ div.style-customizer select { width: 100%; padding: 5px; border: 1px solid #b2bf
 .style-customizer .button:hover{background:#ffffff !important; color:#353535;}
 
 /*Color Skins*/
-div.style-customizer .skin-default{background:#ffd200;}
+div.style-customizer .skin-default{background:#36a2dc;}
 div.style-customizer .skin-green{background:#18b870;}
 div.style-customizer .skin-red{background:#f7412c;}
-div.style-customizer .skin-yellow{background:#feed19;}
+div.style-customizer .skin-yellow{background:#36a2dc;}
 div.style-customizer .skin-lightgreen{background:#89c541;}
 div.style-customizer .skin-blue{background:#1294f6;}
 div.style-customizer .skin-orange{background:#fe9900;}
