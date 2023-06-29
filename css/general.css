@@ -64,7 +64,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
 h1 { font-size: 54px; font-style: normal; font-weight: 600; line-height: 54px; }
 h2 { font-size: 34px; font-style: normal; font-weight: 600; line-height: 40px; }
 h3 { font-size: 28px; font-style: normal; font-weight: 600; line-height: 36px; }
-h4 { font-size: 22px; font-style: normal; font-weight: 500; line-height: 32px; }
+h4 {font-size: 22px;font-style: normal;font-weight: 500;line-height: 32px;}
 h5 { font-size: 18px; font-style: normal; font-weight: 500; line-height: 30px; }
 h6 { font-size: 16px; font-style: normal; font-weight: 500; line-height: 24px; }
 
@@ -456,7 +456,7 @@ section.text-center:hover .section-title .title:before{margin-left:-40px;}
 
 /* Action Box - Small */
 .action-box.small{padding:15px 0;}
-.action-box.small h4{font-weight:500; margin-top:22px;}
+.action-box.small h4{font-weight: 500;margin-top:22px;}
 
 /*----------------------------------------------------------------------
  Alerts and Callouts
