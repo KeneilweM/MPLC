@@ -228,7 +228,7 @@ Page section margin padding
 .text-white{color:#ffffff;}
 .text-black{color:#353535;}
 .text-gray, .text-grey{color:#aaaaaa;}
-.text-yellow{color:#36a2dc;}
+.text-yellow{color:black;}
 
 .white-bg{background:#ffffff;}
 .dark-bg{background:#151515;}
