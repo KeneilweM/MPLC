@@ -14,6 +14,7 @@ Design and Developed by: potenzaglobalsolutions.com
 .loading-effect{width:305px; height:100px;}
 .loading-effect span{float:left; margin-top:28px;}
 
+
 @media screen and (max-width:767px) {
 	.clear-loading{margin-left:-50px;}
 	.loading-effect{width:100px; height:100px;}
@@ -34,6 +35,25 @@ Design and Developed by: potenzaglobalsolutions.com
 ---------------------------------------------------------------------*/
 #header{position:absolute; width:100%; z-index:99;}
 #header.defualt{background: transparent; z-index: 999; padding: 0px; margin: 0px; position: absolute; width: 100%; }
+
+
+.sliderCon
+{
+  z-index: 8; 
+  white-space: nowrap; 
+  font-size: 23px; 
+  line-height: 35px;
+  color: rgba(255, 255, 255, 1.00);
+
+}
+
+@media only screen and ( max-width: 500px) {
+  
+  .sliderCon{ font-size: 40px;
+  margin-right: 500px; }
+  
+  
+}
 
 /*topbar*/
 .topbar { border-bottom: 1px solid rgba(255, 255, 255, 0.2); padding: 10px 0px; }
