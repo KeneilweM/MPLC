@@ -54,7 +54,7 @@ NOTE:
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
 
 
- body {font-family: 'Roboto', sans-serif;font-weight: normal;font-style: normal;font-size: 14px;line-height: 24px;color:#757575;}
+ body {font-family: 'Roboto', sans-serif;font-weight: normal;font-style: normal;font-size: px;line-height: 24px;color:#757575;}
  a, .btn  { -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s;
 	transition: all 0.3s ease-out 0s; color: #353535; }
 a:focus { text-decoration: none !important; }
@@ -116,7 +116,7 @@ blockquote .quote-author, blockquote .quote-author a{font-size:16px; font-weight
 /***************************
 Page section margin padding
 ****************************/
-.page-section-ptb{padding:80px 0;} .page-section-pt{padding: 80px 0 0;} .page-section-pb{padding: 0 0 80px;}
+.page-section-ptb{padding:80px 0;} .page-section-pt{padding: 62px 0 0;} .page-section-pb{padding: 0 0 80px;}
 
 .page-section-ptb2{padding:20px 0;} .page-section-pt2{padding:20px 0 0;} .page-section-pb2{padding:0 0 20px;}
 .page-section-ptb3{padding:30px 0;} .page-section-pt3{padding:30px 0 0;} .page-section-pb3{padding:0 0 30px;}
