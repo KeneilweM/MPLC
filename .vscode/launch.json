@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open index-3.html",
-            "file": "c:\\Users\\kamog\\Documents\\MPLC\\MPLC\\index-3.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\kamog\\Documents\\MPLC\\MPLC\\index.html"
         }
     ]
 }
